@@ -1,4 +1,4 @@
-## **Business Student** - University of Bath
+# **Business Student** - University of Bath
 
 
 <a href="https://www.linkedin.com/in/joesassoon/">
