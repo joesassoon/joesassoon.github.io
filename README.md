@@ -1,5 +1,3 @@
-% Joe Sassoon
-
 ## **Business Student** - University of Bath
 
 
